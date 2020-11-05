@@ -1,9 +1,9 @@
 import React from "react";
+import Row from "./Components/Row";
+import Sdata from "./Components/Sdata";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import "../src/DataTables/DataTables-1.10.21/css/jquery.dataTables.min.css";
-import Row from "./Row";
-import Sdata from "./Sdata";
+
 
 
 const App=()=>{
